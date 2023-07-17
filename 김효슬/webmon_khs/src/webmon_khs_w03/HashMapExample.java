@@ -8,7 +8,7 @@ import java.util.Set;
 
 public class HashMapExample {
     public static void main(String[] args) {
-        // HashMap 생성
+        // 658p HashMap 생성 / 이름을 key, 점수를 값(value)로 저장하는 hashmap사용방법 
         Map<String, Integer> map = new HashMap<>();
 
         // 객체 저장
